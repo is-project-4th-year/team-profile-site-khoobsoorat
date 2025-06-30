@@ -11,3 +11,6 @@
 
 ## CLI Commands
 1. git checkout
+git push
+git add 
+
