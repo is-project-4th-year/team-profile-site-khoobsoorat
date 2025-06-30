@@ -10,3 +10,4 @@
 3. How to create milestones,issues and linking them.
 
 ## CLI Commands
+git push
