@@ -10,5 +10,7 @@
 3. How to create milestones,issues and linking them.
 
 ## CLI Commands
+1. git checkout
 git push
 git add 
+
