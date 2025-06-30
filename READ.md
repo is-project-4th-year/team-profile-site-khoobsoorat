@@ -11,3 +11,4 @@
 
 ## CLI Commands
 git push
+git add 
