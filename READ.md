@@ -13,4 +13,5 @@
 1. git checkout
 git push
 git add 
+git commit
 
